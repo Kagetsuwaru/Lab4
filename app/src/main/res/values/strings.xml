@@ -1,3 +1,89 @@
 <resources>
-    <string name="app_name">MyCityApp</string>
+    <string name="app_name" translatable="false">MyCityApp</string>
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+
+    <string name="Home">Home</string>
+    <string name="Settings">Settings</string>
+    <string name="About">About</string>
+    <string name="Categories">Category</string>
+    <string name="Recomendation">Recomendation</string>
+    <string name="Element">Selected location</string>
+
+    <!-- Category Names -->
+    <string name="category_museums">Museums</string>
+    <string name="category_theatres">Theaters</string>
+    <string name="category_parks">Parks</string>
+
+    <string name="settings_swap_lang">Select a language</string>
+    <string name="lang_en" translatable="false">English</string>
+    <string name="lang_ru" translatable="false">Русский</string>
+
+
+    <!-- MUSEUMS -->
+    <string name="museum_kalashnikov_name">Kalashnikov Museum</string>
+    <string name="museum_kalashnikov_short">Museum dedicated to the life and work of the legendary designer and the history of small arms in Izhevsk.</string>
+    <string name="museum_kalashnikov_long">The exhibition tells the story of Mikhail Kalashnikov’s fate and inventions, whose name is inextricably linked with the development of small arms in Russia. The museum features a modern shooting range and interactive zones.</string>
+
+    <string name="museum_gerda_name">National Museum of Udmurtia</string>
+    <string name="museum_gerda_short">The main local lore museum of the republic, located in the historical Arsenal building.</string>
+    <string name="museum_gerda_long">The largest repository of artifacts representing the natural and cultural heritage of Udmurtia from ancient times to the present day. The museum is a key scientific and educational center of the region.</string>
+
+    <string name="museum_sport_name">Sports History Center</string>
+    <string name="museum_sport_short">A museum dedicated to the sporting achievements of Izhevsk athletes.</string>
+    <string name="museum_sport_long">The exhibition presents awards, equipment, gear, and unique sports technology that tell the story of the development of physical culture in the city. The center plays an important role in promoting sports and preserving its history.</string>
+
+    <string name="museum_moto_name">Kozhushkov Moto Museum</string>
+    <string name="museum_moto_short">A private motorcycle museum based on the collection of the Kozhushkov family.</string>
+    <string name="museum_moto_long">The exhibition is dedicated to the history of motorcycle production in Izhevsk and features unique motorcycle models produced at the Izhevsk Motor Plant. The museum was created by enthusiasts to showcase the city\'s industrial identity.</string>
+
+    <!-- THEATERS -->
+    <string name="theatre_opera_name">Opera and Ballet Theater of Udmurtia</string>
+    <string name="theatre_opera_short">The main musical stage of Udmurtia, named after the legendary local composer Tchaikovsky.</string>
+    <string name="theatre_opera_long">The theater presents a wide repertoire, including classical and modern opera and ballet productions, as well as operettas and musicals. It is the only academic theater in the birthplace of P. I. Tchaikovsky.</string>
+
+    <string name="theatre_drama_name">Russian Drama Theater of Udmurtia</string>
+    <string name="theatre_drama_short">One of the oldest theaters in Izhevsk.</string>
+    <string name="theatre_drama_long">The theater maintains an active creative life, producing plays based on Russian and world literature. With a history spanning decades, it continues to evolve and discover new names today.</string>
+
+    <string name="theatre_young_name">Young Man Theater</string>
+    <string name="theatre_young_short">A theater oriented toward young audiences and family viewing.</string>
+    <string name="theatre_young_long">The repertoire includes productions based on classical and modern authors for both children and adults. The theater troupe regularly participates in festivals and has received numerous professional awards.</string>
+
+    <string name="theatre_puppets_name">Puppet Theater of Udmurtia</string>
+    <string name="theatre_puppets_short">A theater that has been delighting audiences with performances for children and adults for over 85 years.</string>
+    <string name="theatre_puppets_long">The theater is known not only for its children\'s plays but also for productions for adult audiences, often participating in international festivals. It has a bilingual troupe and performs in both Russian and Udmurt.</string>
+
+    <!-- PARKS -->
+    <string name="park_kirova_name">Kirov Park</string>
+    <string name="park_kirova_short">The largest forest-park zone in Izhevsk with a pond, amusement rides, and sports grounds.</string>
+    <string name="park_kirova_long">The park offers active recreation year-round: amusement rides, a rope park, and equipment rentals in summer; an ice rink and ski trails in winter. It regularly hosts cultural events and concerts.</string>
+
+    <string name="park_gorkogo_name">Gorky Summer Garden</string>
+    <string name="park_gorkogo_short">The oldest park in Izhevsk, founded in the 19th century at the general\'s estate.</string>
+    <string name="park_gorkogo_long">Located in the city center, the park combines a historical atmosphere with modern entertainment: rides, cafes, and access to the Izhevsk pond embankment. In winter, an ice rink is set up on the grounds.</string>
+
+    <string name="park_berioza_name">Birch Grove</string>
+    <string name="park_berioza_short">A green park in the city center, the main venue for Udmurt national holidays.</string>
+    <string name="park_berioza_long">A cozy park perfect for walks, picnics, or visiting cafes with national cuisine. It preserves the natural landscape while providing conditions for both peaceful and active recreation.</string>
+
+    <string name="park_seti_name">Seti Park</string>
+    <string name="park_seti_short">The only specialized park for extreme sports in Udmurtia.</string>
+    <string name="park_seti_long">The park is equipped with professional areas for skateboarding, BMX, basketball, and other street disciplines. It is a free training ground for athletes of all skill levels.</string>
+
+
+    <string name="about_title">Izhevsk</string>
+    <string name="about_description">
+    This is your personal guide to the cultural and entertainment life of the capital of Udmurtia.\n\n
+    The application was developed as part of Laboratory Work No. 4 for the "Mobile Application Development" course.\n\n
+    Completed by: Zaytsev Vyacheslav\n
+    Group: B23-191-3
+    </string>
+
+    <string name="welcome_title">Welcome to Izhevsk!</string>
+    <string name="city_description">The armory capital of Russia, a city of labor glory and the birthplace of the legendary Kalashnikov rifle.</string>
+
+    <string name="main_title">Izhevsk: City Guide</string>
+    <string name="main_description">This app will show you the best museums, theaters, and parks in Izhevsk.</string>
+
+
 </resources>

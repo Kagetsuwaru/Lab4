@@ -1,5 +1,30 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
 
-    <style name="Theme.MyCityApp" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Base.Theme.MyCityApp" parent="Theme.Material3.DayNight.NoActionBar">
+
+    </style>
+
+    <style name="Base.Theme.MyCityApp." parent="Base.Theme.MyCityApp">
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="android:textColorSecondary">@color/white</item>
+
+        <item name="colorOnSecondaryContainer">@color/white</item>
+        <item name="colorSecondaryContainer">#6E6E6E</item>
+        <item name="colorOnSurfaceVariant">#B0B0B0</item>
+
+
+    </style>
+
+    <style name="App.CustomIndicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">#40FFFFFF</item>
+        <item name="android:height">32dp</item>
+    </style>
+
+    <style name="BottomNavTextStyle">
+        <item name="android:textSize">@dimen/font_low</item>
+    </style>
+
+    <style name="NavDrawerTextStyle">
+        <item name="android:textSize">@dimen/font_low</item>
+    </style>
 </resources>
