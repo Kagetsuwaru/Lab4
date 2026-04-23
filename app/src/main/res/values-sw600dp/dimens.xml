@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_L">4dp</dimen>
+    <dimen name="padding_low">8dp</dimen>
+    <dimen name="paddin_M">12dp</dimen>
+    <dimen name="padding_medium">16dp</dimen>
+    <dimen name="padding_large">32dp</dimen>
+
+    <dimen name="font_low">22dp</dimen>
+    <dimen name="font_medium">24dp</dimen>
+    <dimen name="font_large">28dp</dimen>
+
+    <dimen name="pic_hight_medium">400dp</dimen>
+    <dimen name="pic_weight_medium">400dp</dimen>
+
+    <dimen name="tools_hight">200dp</dimen>
+
+
+
+    <dimen name="icon_size">128dp</dimen>
+    <dimen name="card_size"> 180dp</dimen>
+
+    <dimen name="text_size_low">20sp</dimen>
+    <dimen name="text_size_med">22sp</dimen>
+    <dimen name="text_size_larg">26sp</dimen>
+</resources>
